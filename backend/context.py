@@ -1,3 +1,4 @@
+# Importing necessary packages
 from resources import linkedin, summary, facts, style
 from datetime import datetime
 
