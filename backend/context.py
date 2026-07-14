@@ -6,7 +6,7 @@ from datetime import datetime
 full_name = facts["full_name"]
 name = facts["name"]
 
-
+# Defining the prompt function
 def prompt():
     return f"""
 # Your Role
